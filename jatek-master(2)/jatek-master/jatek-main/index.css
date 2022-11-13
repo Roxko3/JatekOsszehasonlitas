@@ -1,0 +1,47 @@
+h1 {
+    font-weight: bold !important;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+    text-align: justify !important;
+}
+
+hr {
+    margin: auto !important;
+    flex: 1;
+}
+
+.title {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+h3 {
+    padding: 0px 48px;
+}
+
+img {
+    border-style: none;
+}
+
+.logoLink {
+    padding-top: 120px;
+    margin-top: 12px;
+}
+
+#btn-back-to-top {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    display: block;
+  }
+
+  #btn-other-game {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    display: block;
+  }
