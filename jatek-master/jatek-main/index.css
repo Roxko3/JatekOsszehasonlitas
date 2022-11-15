@@ -33,15 +33,19 @@ img {
 }
 
 #btn-back-to-top {
-    position: fixed;
     top: 20px;
     left: 20px;
     display: block;
+    width: 175px;
   }
 
   #btn-other-game {
-    position: fixed;
     top: 20px;
     right: 20px;
     display: block;
+    
+    width: 175px;
+  }
+  a {
+    text-decoration: none !important;
   }
